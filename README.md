@@ -12,11 +12,11 @@ https://developerfaysal.github.io/easypay/
 
 
 ## Contact Me
+```bash
 Email : kartikghosh4411@gmail.com
-
 Facebook: https://www.facebook.com/rd.durjoy.7587/ 
-
-Linkdin: https://www.linkedin.com/in/kartik-ghosh-b002501b3/
+Linkdin: https://www.linkedin.com/in/kartik-ghosh-b002501b3/ 
+```
 
 
 

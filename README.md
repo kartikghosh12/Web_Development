@@ -10,6 +10,13 @@ https://kartikghosh12.github.io/Web_Development/easypay/
 ```
 
 
+2. Company_Website
+
+```bash
+https://kartikghosh12.github.io/Web_Development/company_website/#
+```
+
+
 
 ## Contact Me
 ```bash

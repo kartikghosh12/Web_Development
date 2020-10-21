@@ -6,7 +6,7 @@ My Web Development All Project I Upload Is Here
 1. Easypay
 
 ```bash
-https://developerfaysal.github.io/easypay/
+https://kartikghosh12.github.io/Web_Development/easypay/
 ```
 
 
